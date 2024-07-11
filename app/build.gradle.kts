@@ -46,6 +46,6 @@ dependencies {
 
     implementation(libs.androidx.retrofit)
     implementation(libs.androidx.retrofit.gson)
-    implementation(libs.glide)
+    implementation(libs.picasso)
 
 }
